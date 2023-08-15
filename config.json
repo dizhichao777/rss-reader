@@ -4,7 +4,7 @@
         "https://tech.meituan.com/feed/",
         "http://www.ruanyifeng.com/blog/atom.xml",
         "https://feeds.appinn.com/appinns/",
-        "https://v2ex.com/feed/tab/tech.xml",
+        "https://v2ex.com/feed/tab/tech.xml"
     ],
     "refresh": 6,
     "autoUpdatePush": 7
